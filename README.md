@@ -1,2 +1,4 @@
 # ProjectTeamHeaderHTMLCSS
-team terbagi 5 orang, dengan pembagian masing2 ugas. saya Wahyudin mendapat tugas untuk membuat header responsif dan beranimasi sebuah website dengan nama company profile Lima Sekawan
+Team terbagi 5 orang
+Masing anggota telah sepakat untuk pembagian tugas pengerjaan untuk sebuah website company profile
+saya Wahyudin mendapat tugas untuk membuat header responsif dan beranimasi sebuah website company profile Lima Sekawan
